@@ -1,0 +1,9 @@
+{
+  "name": "sitebill-realty",
+  "version": "0.1.0",
+  "description": "ИИ-агент риелтора: поиск объектов, подборки для клиентов, контакты и сделки CRM через MCP-сервер Sitebill",
+  "homepage": "https://www.sitebill.ru/mcp-server/",
+  "repository": "https://github.com/rumantic/claude-skills-real-estate",
+  "license": "MIT",
+  "keywords": ["real-estate", "realtor", "crm", "mcp", "sitebill", "недвижимость", "риелтор"]
+}

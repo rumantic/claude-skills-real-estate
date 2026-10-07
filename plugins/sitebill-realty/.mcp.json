@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sitebill": {
+      "type": "http",
+      "url": "${SITEBILL_MCP_URL}",
+      "headers": {
+        "Authorization": "Bearer ${SITEBILL_MCP_TOKEN}"
+      }
+    }
+  }
+}

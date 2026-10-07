@@ -1,0 +1,19 @@
+{
+  "name": "claude-skills-real-estate",
+  "owner": {
+    "name": "Sitebill",
+    "url": "https://www.sitebill.ru/mcp-server/"
+  },
+  "metadata": {
+    "description": "Claude skills для риелторов и агентств недвижимости: MCP-сервер платформы Sitebill (объекты, контакты, сделки)"
+  },
+  "plugins": [
+    {
+      "name": "sitebill-realty",
+      "source": "./plugins/sitebill-realty",
+      "description": "ИИ-агент риелтора: поиск объектов, подборки для клиентов, контакты и сделки CRM через MCP-сервер Sitebill",
+      "homepage": "https://www.sitebill.ru/mcp-server/",
+      "keywords": ["real-estate", "realtor", "crm", "mcp", "sitebill", "недвижимость", "риелтор"]
+    }
+  ]
+}
